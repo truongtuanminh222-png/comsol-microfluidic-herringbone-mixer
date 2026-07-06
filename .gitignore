@@ -1,0 +1,5 @@
+cat > .gitignore << 'EOF'
+*.mph.bak
+*.mph~
+.DS_Store
+EOF
